@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-in-github-demo/static/css/main.7aefb418.css",
+    "main.js": "/React-in-github-demo/static/js/main.7a1d6706.js",
+    "static/js/787.97a945da.chunk.js": "/React-in-github-demo/static/js/787.97a945da.chunk.js",
+    "index.html": "/React-in-github-demo/index.html",
+    "main.7aefb418.css.map": "/React-in-github-demo/static/css/main.7aefb418.css.map",
+    "main.7a1d6706.js.map": "/React-in-github-demo/static/js/main.7a1d6706.js.map",
+    "787.97a945da.chunk.js.map": "/React-in-github-demo/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7aefb418.css",
+    "static/js/main.7a1d6706.js"
+  ]
+}
